@@ -1,0 +1,5 @@
+program:\sravanthi\app\oracle\product\10.2.0\server\config\scripts\XE.bat
+
+Source: F:\SRAVANTHI\APP\ORACLE\PRODUCT\10.2.0\SERVER\BIN\ORADIM.EXE
+
+Target: f:\sravanthi\app\oracle\product\10.2.0\server\bin\ORACLE.EXE
